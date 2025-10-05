@@ -1,0 +1,27 @@
+/* ====== ESTILO GLOBAL ====== */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa; /* cor suave de fundo */
+}
+
+/* Banner inicial */
+header {
+  background: linear-gradient(to right, #f8f9fa, #e9ecef);
+}
+
+/* Navbar custom */
+.navbar-brand {
+  font-weight: bold;
+  color: #2c3e50 !important;
+}
+
+/* Cards dos apartamentos */
+.card img {
+  height: 220px;
+  object-fit: cover;
+}
+
+/* Footer */
+footer {
+  font-size: 14px;
+}
